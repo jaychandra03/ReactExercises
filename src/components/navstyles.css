@@ -1,0 +1,33 @@
+.navbar {
+    margin-bottom: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8b400;
+    padding:0%;
+    top:0;
+    left: 0;
+  }
+  
+  .title {
+    margin: 0;
+  }
+  
+  .menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .menuitem {
+    margin-left: 20px;
+    
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    color: #000;
+  }
+  
